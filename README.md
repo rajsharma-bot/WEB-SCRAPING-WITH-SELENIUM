@@ -1,4 +1,4 @@
-# WEB-SCRAPING-using-selenium
+# WEB-SCRAPING USING SELENIUM
 
 Multiple sample file for web scraping using selenium in Jupyter Notebook
 
